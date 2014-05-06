@@ -1,3 +1,25 @@
+## A node from the student on image transparency
+
+There has been a lot of discussion on the forum about whether or not
+to make the plot backgrounds white or transparent. The reference
+plots do in fact have a transparent background, but appear white
+when rendered in the README which is the first thing people see.
+That said, I've chosen to produce both backgrounds, but to use
+the white bg images as the primary files (plot[1-4].png). The
+transparent images can be found in transparent/plot[1-4]-trans.png.
+
+My rationale:
+
+- Peers who are not familiar with transparency may be confused by
+  the checkerboard background rendered by github (and most image
+  viewing software) that transparency brings
+- People that care about transparency can see that I realize the
+  issue and know how to treat it.
+- In reality, I believe a white background to be more approprite
+  for these plots.
+
+
+
 ## Introduction
 
 This assignment uses data from
