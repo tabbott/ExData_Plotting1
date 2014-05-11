@@ -6,7 +6,8 @@ plots do in fact have a transparent background, but appear white
 when rendered in the README which is the first thing people see.
 That said, I've chosen to produce both backgrounds, but to use
 the white bg images as the primary files (plot[1-4].png). The
-transparent images can be found in transparent/plot[1-4]-trans.png.
+transparent images can be found in
+[transparent/plot[1-4]-trans.png](https://github.com/tabbott/ExData_Plotting1/tree/master/transparent).
 
 My rationale:
 
