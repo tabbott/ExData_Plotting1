@@ -1,4 +1,4 @@
-## A node from the student on image transparency
+## A note from the student on image transparency
 
 There has been a lot of discussion on the forum about whether or not
 to make the plot backgrounds white or transparent. The reference
